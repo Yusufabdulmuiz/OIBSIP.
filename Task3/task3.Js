@@ -6,17 +6,8 @@ const tempunit1 = document.getElementById("tempunit1");
 
 const tempunit2 = document.getElementById("tempunit2");
 
-/* add event listener 
 
-temp1.addEventListener("keyup",tempresult);
 
-temp2.addEventListener("keyup", tempresult);
-
-tempunit1.addEventListener("keyup", tempresult);
-
-tempunit2.addEventListener("keyup", tempresult);*/
-
-//function
 
 function tempresult() {
 
